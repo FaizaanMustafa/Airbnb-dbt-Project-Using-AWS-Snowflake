@@ -1,0 +1,13 @@
+snowflake_spotify_project:
+  outputs:
+    dev:
+      account: WSRZOUZ-MT97777
+      database: SPOTIFY_DB
+      password: Faiz7786367428
+      role: ACCOUNTADMIN
+      schema: SOURCE
+      threads: 1
+      type: snowflake
+      user: FAIZAAN
+      warehouse: COMPUTE_WH
+  target: dev
