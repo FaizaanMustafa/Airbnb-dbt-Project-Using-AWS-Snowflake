@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: sources
+    database: SPOTIFY_DB
+    schema: source
+    tables:
+      - name: listings
+      - name: bookings
+      - name: hosts
